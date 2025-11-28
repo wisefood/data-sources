@@ -4,3 +4,6 @@
 [submodule "wisefood-client"]
 	path = wisefood-client
 	url = https://github.com/wisefood/wisefood-client
+[submodule "wisefood-data-api"]
+	path = wisefood-data-api
+	url = https://github.com/wisefood/wisefood-data-api
