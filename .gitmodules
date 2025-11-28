@@ -1,3 +1,6 @@
 [submodule "scientific-article-collection"]
 	path = scientific-article-collection
 	url = https://github.com/wisefood/scientific-article-collection
+[submodule "wisefood-client"]
+	path = wisefood-client
+	url = https://github.com/wisefood/wisefood-client
