@@ -1,0 +1,3 @@
+[submodule "scientific-article-collection"]
+	path = scientific-article-collection
+	url = https://github.com/wisefood/scientific-article-collection
