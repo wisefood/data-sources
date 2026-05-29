@@ -1,6 +1,6 @@
 # WiseFood Data Sources & Data Preparation
 
-Overview of the end-to-end data preparation and integration pipeline that powers the WiseFood knowledge assets. This synopsis is tailored for an academic/European review context, emphasizing methodological rigor, traceability, and semantic interoperability.
+Overview of the end-to-end data preparation and integration pipeline that powers the WiseFood knowledge assets
 
 ![Data infrastructure pipeline](misc/data_infrastructure_pipelines.jpg)
 
